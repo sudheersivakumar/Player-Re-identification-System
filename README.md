@@ -21,4 +21,4 @@
   - json
   - logging
 ## Install dependencies:
-<pre> ```sh curl -fsSL https://christitus.com/linux | sh ``` </pre> 
+<pre> ## Stable Branch (Recommended) ```sh curl -fsSL https://christitus.com/linux | sh ``` </pre>
