@@ -1,6 +1,6 @@
 # Player Re-identification System 
-##This README provides complete instructions for setting up, running, and understanding the outputs of the Player Re-identification system implemented in cldvid.py. The system detects, tracks, and matches players between two videos using computer vision and deep learning.
-##Overview
+## This README provides complete instructions for setting up, running, and understanding the outputs of the Player Re-identification system implemented in cldvid.py. The system detects, tracks, and matches players between two videos using computer vision and deep learning.
+## Overview
 This project implements a video-based player re-identification (Re-ID) pipeline:
 Detection: Uses YOLO for player detection in each frame.
 Tracking: Tracks detected players within each video using appearance and spatial features.
