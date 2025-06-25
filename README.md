@@ -7,3 +7,18 @@
 - Feature Extraction: Extracts color histogram features for robust player appearance representation.
 - Re-Identification: Matches players across two videos using cosine similarity and the Hungarian algorithm.
 - Visualization & Output: Generates annotated videos, comparison frames, and mapping reports.
+## Dependencies and Environment Requirements
+- Python: 3.8 or above recommended
+- CUDA: Required for GPU acceleration (if available)
+- Required Python Packages:
+  - opencv-python
+  - numpy
+  - ultralytics (for YOLO model)
+  - torch and torchvision
+  - scikit-learn
+  - scipy
+  - pickle
+  - json
+  - logging
+## Install dependencies:
+<pre> ```sh curl -fsSL https://christitus.com/linux | sh ``` </pre> 
