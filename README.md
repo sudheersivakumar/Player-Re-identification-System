@@ -1,4 +1,4 @@
-# Player Re-identification System – README
+# Player Re-identification System 
 This README provides complete instructions for setting up, running, and understanding the outputs of the Player Re-identification system implemented in cldvid.py. The system detects, tracks, and matches players between two videos using computer vision and deep learning.
 Overview
 This project implements a video-based player re-identification (Re-ID) pipeline:
